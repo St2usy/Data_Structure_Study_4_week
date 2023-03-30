@@ -15,11 +15,34 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Stack_LinkedList.h">
-      <Filter>헤더 파일</Filter>
-    </ClInclude>
     <ClInclude Include="Studnets.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
+    <ClInclude Include="Node.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="LinkedStack.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Node_queue.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="LinkedQueue.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="StudentQueue.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="5장-LinkedStack.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="LinkedQueue.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="5장-StudentQueue.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

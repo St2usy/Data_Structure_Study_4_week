@@ -19,8 +19,17 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Stack_LinkedList.h" />
+    <ClInclude Include="LinkedQueue.h" />
+    <ClInclude Include="LinkedStack.h" />
+    <ClInclude Include="Node.h" />
+    <ClInclude Include="Node_queue.h" />
+    <ClInclude Include="StudentQueue.h" />
     <ClInclude Include="Studnets.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="5장-LinkedStack.cpp" />
+    <ClCompile Include="5장-StudentQueue.cpp" />
+    <ClCompile Include="LinkedQueue.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
